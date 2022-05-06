@@ -38,13 +38,13 @@ a.navbar-brand {
     color: white;
 }
 
-.btnc {
+.cbtnc {
     display: flex;
     width: 28rem;
     margin: auto;
 }
 
-.btn {
+.cbtn {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ a.navbar-brand {
     margin: 3rem .5rem;
 }
 
-.btn:hover {
+.cbtn:hover {
     box-shadow: 25px 24px 28px black;
 }
 

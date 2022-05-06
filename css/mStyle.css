@@ -32,14 +32,14 @@ a.navbar-brand {
 
 /* Download btn */
 
-.btnc {
+.cbtnc {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.btn {
+.cbtn {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +47,7 @@ a.navbar-brand {
     height: 10rem;
 }
 
-.btnc button{
+.cbtnc button{
         font-size: 4rem;
         font-weight: 500;
 }
