@@ -37,6 +37,7 @@ a.navbar-brand {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 
 .cbtn {
@@ -89,4 +90,21 @@ a.navbar-brand {
 
 #press img{
     width: 15rem;
+}
+
+/* CTA */
+
+#cta h3 {
+    font-size: 8rem;
+}
+
+/* Footer */
+
+.fLogo {
+    width: 6rem;
+    margin: 4rem;
+}
+
+#footer p{
+    font-size: 2.5rem;
 }

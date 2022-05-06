@@ -31,7 +31,6 @@ a.navbar-brand {
 /* Cover page */
 
 .row h1 {
-    text-align: center;
     font-weight: 900;
     font-size: 3.9rem;
     line-height: 1.5;
@@ -41,7 +40,6 @@ a.navbar-brand {
 .cbtnc {
     display: flex;
     width: 28rem;
-    margin: auto;
 }
 
 .cbtn {
@@ -166,4 +164,44 @@ a.navbar-brand {
 
 .btn:hover {
     box-shadow: 25px 24px 28px black;
+}
+
+/* CTA section */
+
+#cta {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 6rem;
+    justify-content: center;
+    align-items: center;
+    background-color: #ff4c64
+}
+
+#cta h3{
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    font-size: 3.5rem;
+}
+
+/* Footer */
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin: 5rem 0rem 0rem 0rem;
+}
+
+.fLogo{
+    width: 2rem;
+    margin: 1.5rem;
+}
+
+#footer p{
+    text-align: center;
+    font-size: 1.2rem;
+    width: 100%;
+    background-color: whitesmoke;
 }
