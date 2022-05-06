@@ -84,3 +84,9 @@ a.navbar-brand {
     width: 10rem;
     margin: 2rem 0px 1rem 0px;
 }
+
+/* Press section */
+
+#press img{
+    width: 19rem;
+}
