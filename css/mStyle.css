@@ -77,9 +77,10 @@ a.navbar-brand {
 }
 
 .row p{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .ico{
     width: 10rem;
+    margin: 2rem 0px 1rem 0px;
 }

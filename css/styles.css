@@ -161,3 +161,9 @@ a.navbar-brand {
 .head {
     font-size: 1.5rem;
 }
+
+/* Subscription */
+
+.btn:hover {
+    box-shadow: 25px 24px 28px black;
+}
