@@ -68,3 +68,18 @@ a.navbar-brand {
     margin-left: 11.5rem;
     border-radius: 64px;
 }
+
+/* Features */
+
+.row h3{
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.row p{
+    font-size: 3rem;
+}
+
+.ico{
+    width: 10rem;
+}
